@@ -1,0 +1,98 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/home-1",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/projects",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/work",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/portfolio",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/blog-wells/:path*",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/invivo_media/:path*",
+      "destination": "/in-vivo-in-vitro-trial-14",
+      "permanent": true
+    },
+    {
+      "source": "/patents-1/:path*",
+      "destination": "/patents",
+      "permanent": true
+    },
+    {
+      "source": "/projects/0dxbui8w7x0a62xelo45cmiy46yxrw",
+      "destination": "/lookingglass",
+      "permanent": true
+    },
+    {
+      "source": "/projects/5mpkedfkkoyv70dinhdosplng63hnt",
+      "destination": "/remember-to-forget",
+      "permanent": true
+    },
+    {
+      "source": "/projects/c2uh4ioeseghmtse86pwfqug9sypog",
+      "destination": "/in-vivo-in-vitro-trial-14",
+      "permanent": true
+    },
+    {
+      "source": "/projects/cmgguqma9t7bor4mp334km6d2squky",
+      "destination": "/timeprojector",
+      "permanent": true
+    },
+    {
+      "source": "/projects/lyo8pyt4pfjjityrpeb5gegl43x84k",
+      "destination": "/heroes",
+      "permanent": true
+    },
+    {
+      "source": "/projects/my47xu640mhe0zp922lkdpyeqzygy5",
+      "destination": "/slowmagicsmask",
+      "permanent": true
+    },
+    {
+      "source": "/projects/srp3qohz8zc4qcvqiaw0fkyx6e4um4",
+      "destination": "/in-vivo-in-vitro",
+      "permanent": true
+    },
+    {
+      "source": "/projects/vmy5dd6nh9ixd6y2q8by9w6zi4m3nw",
+      "destination": "/threewaymirror",
+      "permanent": true
+    },
+    {
+      "source": "/projects/yx1vxz8z3kj4z2ajw9x94thi3jkggn",
+      "destination": "/recurrent",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/media/:path*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ]
+}
