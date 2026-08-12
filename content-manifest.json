@@ -1,0 +1,1518 @@
+{
+  "pages": [
+    {
+      "route": "/",
+      "file": "index.html",
+      "title": "//Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/570580e1_k0j0.png"
+          ]
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.horizontalrule"
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.horizontalrule"
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.horizontalrule"
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/c8878848_Paracorp-Logo.gif"
+          ]
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.horizontalrule"
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/a44ffce4_porous_hero-title.png"
+          ]
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.horizontalrule"
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/1508f753_tael2.gif"
+          ]
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.horizontalrule"
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.summary",
+          "images": [
+            "/media/a3d93151_inVivooo.png",
+            "/media/3b431017_inVivo.jpg",
+            "/media/c8bb7782_recurrent.png",
+            "/media/9f0eb455_QR_remember-to-forget.png",
+            "/media/2bc08d9b_threeWayMirror.png",
+            "/media/5f492cff_Looking-glass_2.png",
+            "/media/384ac9fc_timeProjector.png",
+            "/media/6ee8e4ff_heroes.png",
+            "/media/c3d9ba6c_slow-magic.jpeg"
+          ],
+          "summary": {
+            "columns": 2,
+            "gutter": 9,
+            "centered": false,
+            "textSize": "small"
+          }
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.socialLinks",
+          "removed": true
+        }
+      ],
+      "images": [
+        "/media/1508f753_tael2.gif",
+        "/media/2bc08d9b_threeWayMirror.png",
+        "/media/384ac9fc_timeProjector.png",
+        "/media/3b431017_inVivo.jpg",
+        "/media/570580e1_k0j0.png",
+        "/media/5f492cff_Looking-glass_2.png",
+        "/media/6ee8e4ff_heroes.png",
+        "/media/9f0eb455_QR_remember-to-forget.png",
+        "/media/a3d93151_inVivooo.png",
+        "/media/a44ffce4_porous_hero-title.png",
+        "/media/c3d9ba6c_slow-magic.jpeg",
+        "/media/c8878848_Paracorp-Logo.gif",
+        "/media/c8bb7782_recurrent.png"
+      ]
+    },
+    {
+      "route": "/dynamic-vr-auditory-awareness",
+      "file": "dynamic-vr-auditory-awareness.html",
+      "title": "Dynamic VR Auditory Awareness \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.embed",
+          "embed": "https://www.youtube.com/embed/LBWWX24fLxQ?start=50"
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/c2a1abc6_US20190200158A1-20190627-D00012.png"
+          ]
+        }
+      ],
+      "images": [
+        "/media/c2a1abc6_US20190200158A1-20190627-D00012.png"
+      ]
+    },
+    {
+      "route": "/embody",
+      "file": "embody.html",
+      "title": "Embody \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/2d46e51e_IMG_1392.JPG"
+          ]
+        },
+        {
+          "type": "2",
+          "definition": null
+        }
+      ],
+      "images": [
+        "/media/2d46e51e_IMG_1392.JPG"
+      ]
+    },
+    {
+      "route": "/google-soli-speaker",
+      "file": "google-soli-speaker.html",
+      "title": "Google Soli Speaker \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.video",
+          "embed": "https://www.youtube.com/embed/8LO59eN9om4?feature=oembed"
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.video",
+          "embed": "https://www.youtube.com/embed/jWNebDDmuXc?feature=oembed"
+        },
+        {
+          "type": "2",
+          "definition": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "route": "/gradi-vox",
+      "file": "gradi-vox.html",
+      "title": "Gradi Vox \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.embed",
+          "embed": "https://player.vimeo.com/video/1074451782?h=b69963a668&autoplay=1&muted=1&loop=1"
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.horizontalrule"
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.horizontalrule"
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/db4576f9_conviviumjoeycamera02882.JPG"
+          ]
+        },
+        {
+          "type": "8",
+          "definition": null,
+          "gallery": {
+            "design": "grid",
+            "columns": 2,
+            "ratio": "four-three",
+            "gap": 20,
+            "lightbox": true,
+            "images": [
+              "/media/d53cdd94_conviviumjoeycamera02996.JPG",
+              "/media/1576d220_conviviumjoeycamera02928.JPG",
+              "/media/2014fcfd_conviviumjoeycamera02890.JPG",
+              "/media/4c872c04_conviviumjoeycamera02911.JPG",
+              "/media/e6c19f12_Film-still_2.png",
+              "/media/97fd5952_Film-still_3.png"
+            ]
+          }
+        }
+      ],
+      "images": [
+        "/media/1576d220_conviviumjoeycamera02928.JPG",
+        "/media/2014fcfd_conviviumjoeycamera02890.JPG",
+        "/media/4c872c04_conviviumjoeycamera02911.JPG",
+        "/media/97fd5952_Film-still_3.png",
+        "/media/d53cdd94_conviviumjoeycamera02996.JPG",
+        "/media/db4576f9_conviviumjoeycamera02882.JPG",
+        "/media/e6c19f12_Film-still_2.png"
+      ]
+    },
+    {
+      "route": "/heroes",
+      "file": "heroes.html",
+      "title": "Heroes \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/dbeed801_image-asset.jpeg"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/e5c1aa50_image-asset.png"
+          ]
+        },
+        {
+          "type": "2",
+          "definition": null
+        }
+      ],
+      "images": [
+        "/media/dbeed801_image-asset.jpeg",
+        "/media/e5c1aa50_image-asset.png"
+      ]
+    },
+    {
+      "route": "/in-vivo-in-vitro-trial-14",
+      "file": "in-vivo-in-vitro-trial-14.html",
+      "title": "In Vivo / In Vitro - Trial 1.4 \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.embed",
+          "embed": "https://player.vimeo.com/video/970453993?h=b69963a668&autoplay=1&muted=1&loop=1"
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.horizontalrule"
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.summary",
+          "images": [
+            "/media/505b946e_social01.gif",
+            "/media/a356eaf9_social04.gif",
+            "/media/29e120c5_social03-short.gif",
+            "/media/e067a02f_social02.gif"
+          ],
+          "summary": {
+            "columns": 2,
+            "gutter": 19,
+            "centered": false,
+            "textSize": "medium"
+          }
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/f9f91f98_social05.gif"
+          ]
+        }
+      ],
+      "images": [
+        "/media/29e120c5_social03-short.gif",
+        "/media/505b946e_social01.gif",
+        "/media/a356eaf9_social04.gif",
+        "/media/e067a02f_social02.gif",
+        "/media/f9f91f98_social05.gif"
+      ]
+    },
+    {
+      "route": "/in-vivo-in-vitro",
+      "file": "in-vivo-in-vitro.html",
+      "title": "In Vivo / In Vitro - Trial 1&2 \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.embed",
+          "embed": "https://player.vimeo.com/video/930291013?h=81a8538a59&autoplay=1&muted=1&loop=1"
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.horizontalrule"
+        },
+        {
+          "type": "2",
+          "definition": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "route": "/lookingglass",
+      "file": "lookingglass.html",
+      "title": "Looking-glass \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/7867751e_Looking-glass_1.jpg"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/0c3bc982_Looking-glass_2.jpg"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/382d5114_Looking-glass_3.jpg"
+          ]
+        }
+      ],
+      "images": [
+        "/media/0c3bc982_Looking-glass_2.jpg",
+        "/media/382d5114_Looking-glass_3.jpg",
+        "/media/7867751e_Looking-glass_1.jpg"
+      ]
+    },
+    {
+      "route": "/lux-aeterna",
+      "file": "lux-aeterna.html",
+      "title": "Lux Aeterna \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.embed",
+          "embed": "https://player.vimeo.com/video/218929405?badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1"
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "8",
+          "definition": null,
+          "gallery": {
+            "design": "grid",
+            "columns": 2,
+            "ratio": "standard",
+            "gap": 13,
+            "lightbox": true,
+            "images": [
+              "/media/8aafd244_2.jpg",
+              "/media/4cb74455_5.jpg",
+              "/media/8fccbbdd_4.jpg",
+              "/media/98571c1c_3.jpg",
+              "/media/88968c87_6.jpg",
+              "/media/43c9c0bd_7-2.jpg"
+            ]
+          }
+        }
+      ],
+      "images": [
+        "/media/43c9c0bd_7-2.jpg",
+        "/media/4cb74455_5.jpg",
+        "/media/88968c87_6.jpg",
+        "/media/8aafd244_2.jpg",
+        "/media/8fccbbdd_4.jpg",
+        "/media/98571c1c_3.jpg"
+      ]
+    },
+    {
+      "route": "/movestudio",
+      "file": "movestudio.html",
+      "title": "MOVE Studio \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/70e15196_IMG_1117.PNG"
+          ]
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.video",
+          "embed": "https://player.vimeo.com/video/234748837?app_id=122963&wmode=opaque"
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/32c08779_IMG_1116.JPG"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/b6ba762f_IMG_1118.JPG"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/3abe4272_IMG_1119.png"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/f6279736_IMG_1120.png"
+          ]
+        },
+        {
+          "type": "2",
+          "definition": null
+        }
+      ],
+      "images": [
+        "/media/32c08779_IMG_1116.JPG",
+        "/media/3abe4272_IMG_1119.png",
+        "/media/70e15196_IMG_1117.PNG",
+        "/media/b6ba762f_IMG_1118.JPG",
+        "/media/f6279736_IMG_1120.png"
+      ]
+    },
+    {
+      "route": "/neurosense",
+      "file": "neurosense.html",
+      "title": "Neurosense \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.embed",
+          "embed": "https://www.youtube.com/embed/XVAiOTUndJ8?start=320"
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/9f546e57_1569484430755.JPEG"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/fe17f237_Screen+Shot+2020-03-09+at+11.09.03+PM+copy.png"
+          ]
+        }
+      ],
+      "images": [
+        "/media/9f546e57_1569484430755.JPEG",
+        "/media/fe17f237_Screen+Shot+2020-03-09+at+11.09.03+PM+copy.png"
+      ]
+    },
+    {
+      "route": "/open-windows-1",
+      "file": "open-windows-1.html",
+      "title": "Open Windows \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.video",
+          "embed": "https://www.youtube.com/embed/eyQscb585hs?start=88&wmode=opaque&enablejsapi=1"
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.video",
+          "embed": "https://player.vimeo.com/video/125219386?wmode=opaque&api=1"
+        },
+        {
+          "type": "8",
+          "definition": null,
+          "gallery": {
+            "design": "grid",
+            "columns": 3,
+            "ratio": "square",
+            "gap": 10,
+            "lightbox": true,
+            "images": [
+              "/media/4db85024_IMG_2024.JPG",
+              "/media/c855ac23_IMG_2025.JPG",
+              "/media/2dbdf781_IMG_2027.JPG",
+              "/media/7f1a10f0_IMG_2039.JPG",
+              "/media/77573430_IMG_2040.jpg",
+              "/media/55fe2d6a_IMG_2041.JPG",
+              "/media/8d51ca2d_IMG_2043.JPG",
+              "/media/a5e732a1_IMG_2069.JPG",
+              "/media/5ff90542_IMG_2076.jpg"
+            ]
+          }
+        },
+        {
+          "type": "2",
+          "definition": null
+        }
+      ],
+      "images": [
+        "/media/2dbdf781_IMG_2027.JPG",
+        "/media/4db85024_IMG_2024.JPG",
+        "/media/55fe2d6a_IMG_2041.JPG",
+        "/media/5ff90542_IMG_2076.jpg",
+        "/media/77573430_IMG_2040.jpg",
+        "/media/7f1a10f0_IMG_2039.JPG",
+        "/media/8d51ca2d_IMG_2043.JPG",
+        "/media/a5e732a1_IMG_2069.JPG",
+        "/media/c855ac23_IMG_2025.JPG"
+      ]
+    },
+    {
+      "route": "/pageme",
+      "file": "pageme.html",
+      "title": "Me \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/ca6edf5f_spaceman.png"
+          ]
+        },
+        {
+          "type": "2",
+          "definition": null
+        }
+      ],
+      "images": [
+        "/media/ca6edf5f_spaceman.png"
+      ]
+    },
+    {
+      "route": "/patents",
+      "file": "patents.html",
+      "title": "Patents \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.summary",
+          "images": [
+            "/media/c3996c22_eegEnabledRetroactiveSearch.png",
+            "/media/1154113c_droneDeployedSpeakerSystem.png",
+            "/media/9413b4e4_shapeshiftingHeadphones_comfort.png",
+            "/media/b0b4d023_focusControlledAmbientSound.png",
+            "/media/9b729913_CONTROLLING+AN+AUTONOMOUS+VEHICLE+BASED+ON+PASSENGER+BEHAVIOR.png",
+            "/media/6809bf73_MOBILE+SPEAKER+SYSTEM+FOR+VIRTUAL+REALITY+ENVIRONMENTS.png",
+            "/media/30a2128b_LOUDSPEAKER+DESIGN+PATENT.png",
+            "/media/7acdfc6f_GENERATING+PERSONALIZED+AUDIO+CONTENT+BASED+ON+MOOD.png",
+            "/media/7ff57b33_RETROACTIVE+SOUND+IDENTIFICATION+SYSTEM.png",
+            "/media/d5d2a926_HAPTIC+DRIVING+GUIDANCE+SYSTEM.jpg",
+            "/media/18eee984_DYNAMIC+AUGMENTATION+OF+REAL-WORLD+SOUNDS+INTO+A+VIRTUAL+REALITY+SOUND+MIX.png",
+            "/media/a0b88fbe_HAPTIC+SYSTEM+FOR+DELIVERING+AUDIO+CONTENT+TO+A+USER.jpg",
+            "/media/3e68d0d9_HAPTIC+NOTIFICATION+SYSTEM+FOR+VEHICLES.jpg",
+            "/media/c2cd16fd_SHAPE-SHIFTING+HEADPHONES.png",
+            "/media/0d1b340f_US10685550-20200616-D00004.png",
+            "/media/2115c362_ECHOLOCATION+WITH+HAPTIC+TRANSDUCER+DEVICE.png",
+            "/media/98ec7f01_HAPTIC+GUIDANCE+SYSTEM.jpg",
+            "/media/fccc8a82_HAPTIC+SYSTEM+FOR+ACTUATING+MATERIALS.jpg",
+            "/media/91a04d9b_DIRECTIONAL+SOUND+MODIFICATION.png",
+            "/media/6367258b_WEARABLE+SOUND+SYSTEM+WITH+CONFIGURABLE+PRIVACY+MODES.jpg",
+            "/media/394d1e88_In-vehicle+augmented+reality+system.png",
+            "/media/cd69412e_Interaction+system+using+collocated+visual,+haptic,+and+auditory+feedback.png",
+            "/media/e213773b_Shape-shifting+control+surface+for+an+autonomous+vehicle.png",
+            "/media/cc815646_Automatic+reference+finding+in+audiovisual+scenes.png",
+            "/media/ffc7e2ad_Mapping+virtual+sound+sources+to+physical+speakers+in+extended+reality+applications.png",
+            "/media/9cf31304_Coordinating+delivery+of+notifications+to+the+driver+of+a+vehicle+to+reduce+distractions.png",
+            "/media/70ba214c_Haptics+device+for+producing+directional+sound+and+haptic+sensations.png",
+            "/media/53fb0072_Resonator+device+for+resonance+mapping+and+sound+production.png",
+            "/media/3068a82d_Sound+modification+based+on+direction+of+interest.png",
+            "/media/e9b34e49_Assessing+cognitive+reaction+to+over-the-air+updates.png"
+          ],
+          "summary": {
+            "columns": 4,
+            "gutter": 20,
+            "centered": true,
+            "textSize": "medium"
+          }
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.summary",
+          "images": [
+            "/media/44a0f069_Auditory+augmented+reality+using+selective+noise+cancellation.png",
+            "/media/ce4daa64_Multi-task+face+detector+and+landmark+detector.png",
+            "/media/2820ae5e_Collision+avoidance+system+for+vehicle+interactions.png",
+            "/media/1c0cc3c7_Audio-visual+sound+enhancement.png",
+            "/media/ea9f8dd9_Virtual+conversation+agent+for+controlling+multiple+vehicular+intelligent+virtual+assistants.png",
+            "/media/b182ef76_Techniques+for+detecting+acknowledgment+from+a+driver+of+a+vehicle.png",
+            "/media/0ff9e547_ATTENTION-BASED+NOTIFICATIONS.png",
+            "/media/5e114e42_Techniques+for+customizing+self-driving+models.png",
+            "/media/4f4b7405_Affective-cognitive+load+based+digital+assistant.png",
+            "/media/12e846fb_Techniques+for+separating+driving+emotion+from+media+induced+emotion+in+a+driver+monitoring+system.png",
+            "/media/20f8a158_Emotionally+responsive+virtual+personal+assistant.png",
+            "/media/94bee963_Automatically+estimating+skill+levels+and+confidence+levels+of+drivers.png",
+            "/media/6bfa987f_Affective-cognitive+load+based+navigation.png",
+            "/media/8210fb35_Modifying+media+content+playback+based+on+user+mental+state.png",
+            "/media/149f880e_Techniques+for+generating+spatial+sound+via+head-mounted+external+facing+speakers.png",
+            "/media/6dcd40d4_Communication+of+autonomous+vehicle+actions.png",
+            "/media/44e428eb_Context+aware+safety+alerts.png"
+          ],
+          "summary": {
+            "columns": 4,
+            "gutter": 20,
+            "centered": true,
+            "textSize": "medium"
+          }
+        }
+      ],
+      "images": [
+        "/media/0d1b340f_US10685550-20200616-D00004.png",
+        "/media/0ff9e547_ATTENTION-BASED+NOTIFICATIONS.png",
+        "/media/1154113c_droneDeployedSpeakerSystem.png",
+        "/media/12e846fb_Techniques+for+separating+driving+emotion+from+media+induced+emotion+in+a+driver+monitoring+system.png",
+        "/media/149f880e_Techniques+for+generating+spatial+sound+via+head-mounted+external+facing+speakers.png",
+        "/media/18eee984_DYNAMIC+AUGMENTATION+OF+REAL-WORLD+SOUNDS+INTO+A+VIRTUAL+REALITY+SOUND+MIX.png",
+        "/media/1c0cc3c7_Audio-visual+sound+enhancement.png",
+        "/media/20f8a158_Emotionally+responsive+virtual+personal+assistant.png",
+        "/media/2115c362_ECHOLOCATION+WITH+HAPTIC+TRANSDUCER+DEVICE.png",
+        "/media/2820ae5e_Collision+avoidance+system+for+vehicle+interactions.png",
+        "/media/3068a82d_Sound+modification+based+on+direction+of+interest.png",
+        "/media/30a2128b_LOUDSPEAKER+DESIGN+PATENT.png",
+        "/media/394d1e88_In-vehicle+augmented+reality+system.png",
+        "/media/3e68d0d9_HAPTIC+NOTIFICATION+SYSTEM+FOR+VEHICLES.jpg",
+        "/media/44a0f069_Auditory+augmented+reality+using+selective+noise+cancellation.png",
+        "/media/44e428eb_Context+aware+safety+alerts.png",
+        "/media/4f4b7405_Affective-cognitive+load+based+digital+assistant.png",
+        "/media/53fb0072_Resonator+device+for+resonance+mapping+and+sound+production.png",
+        "/media/5e114e42_Techniques+for+customizing+self-driving+models.png",
+        "/media/6367258b_WEARABLE+SOUND+SYSTEM+WITH+CONFIGURABLE+PRIVACY+MODES.jpg",
+        "/media/6809bf73_MOBILE+SPEAKER+SYSTEM+FOR+VIRTUAL+REALITY+ENVIRONMENTS.png",
+        "/media/6bfa987f_Affective-cognitive+load+based+navigation.png",
+        "/media/6dcd40d4_Communication+of+autonomous+vehicle+actions.png",
+        "/media/70ba214c_Haptics+device+for+producing+directional+sound+and+haptic+sensations.png",
+        "/media/7acdfc6f_GENERATING+PERSONALIZED+AUDIO+CONTENT+BASED+ON+MOOD.png",
+        "/media/7ff57b33_RETROACTIVE+SOUND+IDENTIFICATION+SYSTEM.png",
+        "/media/8210fb35_Modifying+media+content+playback+based+on+user+mental+state.png",
+        "/media/91a04d9b_DIRECTIONAL+SOUND+MODIFICATION.png",
+        "/media/9413b4e4_shapeshiftingHeadphones_comfort.png",
+        "/media/94bee963_Automatically+estimating+skill+levels+and+confidence+levels+of+drivers.png",
+        "/media/98ec7f01_HAPTIC+GUIDANCE+SYSTEM.jpg",
+        "/media/9b729913_CONTROLLING+AN+AUTONOMOUS+VEHICLE+BASED+ON+PASSENGER+BEHAVIOR.png",
+        "/media/9cf31304_Coordinating+delivery+of+notifications+to+the+driver+of+a+vehicle+to+reduce+distractions.png",
+        "/media/a0b88fbe_HAPTIC+SYSTEM+FOR+DELIVERING+AUDIO+CONTENT+TO+A+USER.jpg",
+        "/media/b0b4d023_focusControlledAmbientSound.png",
+        "/media/b182ef76_Techniques+for+detecting+acknowledgment+from+a+driver+of+a+vehicle.png",
+        "/media/c2cd16fd_SHAPE-SHIFTING+HEADPHONES.png",
+        "/media/c3996c22_eegEnabledRetroactiveSearch.png",
+        "/media/cc815646_Automatic+reference+finding+in+audiovisual+scenes.png",
+        "/media/cd69412e_Interaction+system+using+collocated+visual,+haptic,+and+auditory+feedback.png",
+        "/media/ce4daa64_Multi-task+face+detector+and+landmark+detector.png",
+        "/media/d5d2a926_HAPTIC+DRIVING+GUIDANCE+SYSTEM.jpg",
+        "/media/e213773b_Shape-shifting+control+surface+for+an+autonomous+vehicle.png",
+        "/media/e9b34e49_Assessing+cognitive+reaction+to+over-the-air+updates.png",
+        "/media/ea9f8dd9_Virtual+conversation+agent+for+controlling+multiple+vehicular+intelligent+virtual+assistants.png",
+        "/media/fccc8a82_HAPTIC+SYSTEM+FOR+ACTUATING+MATERIALS.jpg",
+        "/media/ffc7e2ad_Mapping+virtual+sound+sources+to+physical+speakers+in+extended+reality+applications.png"
+      ]
+    },
+    {
+      "route": "/porous",
+      "file": "porous.html",
+      "title": "Porous \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/b5216612_IMG_4680.jpg"
+          ]
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.horizontalrule"
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.horizontalrule"
+        },
+        {
+          "type": "8",
+          "definition": null,
+          "gallery": {
+            "design": "grid",
+            "columns": 2,
+            "ratio": "square",
+            "gap": 20,
+            "lightbox": true,
+            "images": [
+              "/media/dd422e28_porous_beach-1.png",
+              "/media/2f40bf2d_porous_convivium-1.jpg",
+              "/media/75e70681_porous_beach-2.png",
+              "/media/3c3b9900_porous_beach-3.png",
+              "/media/7926ad70_porous_convivium-2.jpg",
+              "/media/8806e301_porous_prototype-1.png"
+            ]
+          }
+        }
+      ],
+      "images": [
+        "/media/2f40bf2d_porous_convivium-1.jpg",
+        "/media/3c3b9900_porous_beach-3.png",
+        "/media/75e70681_porous_beach-2.png",
+        "/media/7926ad70_porous_convivium-2.jpg",
+        "/media/8806e301_porous_prototype-1.png",
+        "/media/b5216612_IMG_4680.jpg",
+        "/media/dd422e28_porous_beach-1.png"
+      ]
+    },
+    {
+      "route": "/previous-works",
+      "file": "previous-works.html",
+      "title": "Previous Works \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.horizontalrule"
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.video",
+          "embed": "https://player.vimeo.com/video/125213735?wmode=opaque"
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.horizontalrule"
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.video",
+          "embed": "https://player.vimeo.com/video/125219384?wmode=opaque"
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.horizontalrule"
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.video",
+          "embed": "https://www.youtube.com/embed/xE8jWyYeyr8?wmode=opaque&enablejsapi=1"
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.video",
+          "embed": "https://player.vimeo.com/video/125219387?wmode=opaque"
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.horizontalrule"
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/0687e2f2_ggj_1.png"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/23c12071_ggj_2.png"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/a0a28023_ggj_3.png"
+          ]
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.horizontalrule"
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.video",
+          "embed": "https://www.youtube.com/embed/heKaOlm1gHw?start=43&wmode=opaque&enablejsapi=1"
+        }
+      ],
+      "images": [
+        "/media/0687e2f2_ggj_1.png",
+        "/media/23c12071_ggj_2.png",
+        "/media/a0a28023_ggj_3.png"
+      ]
+    },
+    {
+      "route": "/recurrent",
+      "file": "recurrent.html",
+      "title": "Recurrent \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.embed",
+          "embed": "https://player.vimeo.com/video/970521285?badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1"
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/3bce304b_image-asset.jpeg"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/4d160fe6_image-asset.jpeg"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/d2e7d6c4_image-asset.jpeg"
+          ]
+        },
+        {
+          "type": "2",
+          "definition": null
+        }
+      ],
+      "images": [
+        "/media/3bce304b_image-asset.jpeg",
+        "/media/4d160fe6_image-asset.jpeg",
+        "/media/d2e7d6c4_image-asset.jpeg"
+      ]
+    },
+    {
+      "route": "/remember-to-forget",
+      "file": "remember-to-forget.html",
+      "title": "Remember to Forget \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/6ada4b7f_QR_remember-to-forget.png"
+          ]
+        }
+      ],
+      "images": [
+        "/media/6ada4b7f_QR_remember-to-forget.png"
+      ]
+    },
+    {
+      "route": "/shapeshifting-controller",
+      "file": "shapeshifting-controller.html",
+      "title": "Shapeshifting Controller \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/64bafaea_Screen+Shot+2020-03-10+at+2.51.28+PM.png"
+          ]
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.video",
+          "embed": "https://player.vimeo.com/video/150363094?app_id=122963&wmode=opaque"
+        }
+      ],
+      "images": [
+        "/media/64bafaea_Screen+Shot+2020-03-10+at+2.51.28+PM.png"
+      ]
+    },
+    {
+      "route": "/slow-magic-mask-redesign",
+      "file": "slow-magic-mask-redesign.html",
+      "title": "Mask Redesign \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "8",
+          "definition": null,
+          "gallery": {
+            "design": "grid",
+            "columns": 2,
+            "ratio": "square",
+            "gap": 10,
+            "lightbox": true,
+            "images": [
+              "/media/b2b5b13f_52983370_175197723465814_5692372806004061706_n.jpg",
+              "/media/01c4ecdb_60610286_307386386849906_3855175901816560419_n.jpg",
+              "/media/29d74ed6_65836119_146168099781460_2130113542092274240_n.jpg",
+              "/media/c42a56bf_67190172_689830218150257_1542480550500122592_n.jpg"
+            ]
+          }
+        },
+        {
+          "type": "2",
+          "definition": null
+        }
+      ],
+      "images": [
+        "/media/01c4ecdb_60610286_307386386849906_3855175901816560419_n.jpg",
+        "/media/29d74ed6_65836119_146168099781460_2130113542092274240_n.jpg",
+        "/media/b2b5b13f_52983370_175197723465814_5692372806004061706_n.jpg",
+        "/media/c42a56bf_67190172_689830218150257_1542480550500122592_n.jpg"
+      ]
+    },
+    {
+      "route": "/slowmagicsmask",
+      "file": "slowmagicsmask.html",
+      "title": "Slow Magic's Mask \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/a6dd12cd__1.jpg"
+          ]
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.video",
+          "embed": "https://www.youtube.com/embed/ApdTBQ96VUE?wmode=opaque&enablejsapi=1"
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "8",
+          "definition": null,
+          "gallery": {
+            "design": "grid",
+            "columns": 2,
+            "ratio": "standard-vertical",
+            "gap": 4,
+            "lightbox": false,
+            "images": [
+              "/media/3083a21b_SM+Hardware+Architecture.png",
+              "/media/b6126cbb_Slow+Magic+Software+Architecture.png"
+            ]
+          }
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/6afaf100__2.jpg"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/e1fb5511__3.jpg"
+          ]
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/21cd4f2b__4.jpg"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/926d5a81___triple.jpg"
+          ]
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/42d4bd75__6.jpg"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/3adff174_Snapseed.jpg"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/cc541ad4_IMG_0591.jpg"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/634a03cb_IMG_0587.jpg"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/7e172990_IMG_0590.jpg"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/71f29922_IMG_0589.jpg"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/da5675d5_IMG_0592.jpg"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/8ddb7594__footer.jpg"
+          ]
+        }
+      ],
+      "images": [
+        "/media/21cd4f2b__4.jpg",
+        "/media/3083a21b_SM+Hardware+Architecture.png",
+        "/media/3adff174_Snapseed.jpg",
+        "/media/42d4bd75__6.jpg",
+        "/media/634a03cb_IMG_0587.jpg",
+        "/media/6afaf100__2.jpg",
+        "/media/71f29922_IMG_0589.jpg",
+        "/media/7e172990_IMG_0590.jpg",
+        "/media/8ddb7594__footer.jpg",
+        "/media/926d5a81___triple.jpg",
+        "/media/a6dd12cd__1.jpg",
+        "/media/b6126cbb_Slow+Magic+Software+Architecture.png",
+        "/media/cc541ad4_IMG_0591.jpg",
+        "/media/da5675d5_IMG_0592.jpg",
+        "/media/e1fb5511__3.jpg"
+      ]
+    },
+    {
+      "route": "/tael",
+      "file": "tael.html",
+      "title": "T.A.E.L. \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "1337",
+          "definition": "website.components.embed",
+          "embed": "https://player.vimeo.com/video/1012261817?h=b69963a668&autoplay=1&muted=1&loop=1"
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "8",
+          "definition": null,
+          "gallery": {
+            "design": "grid",
+            "columns": 2,
+            "ratio": "square",
+            "gap": 20,
+            "lightbox": true,
+            "images": [
+              "/media/76b5b6c9_1.gif",
+              "/media/805eb18e_2.gif",
+              "/media/475a6b4f_9.png",
+              "/media/f0418eab_8.png"
+            ]
+          }
+        },
+        {
+          "type": "8",
+          "definition": null,
+          "gallery": {
+            "design": "grid",
+            "columns": 2,
+            "ratio": "widescreen",
+            "gap": 20,
+            "lightbox": true,
+            "images": [
+              "/media/a6012322_4.png",
+              "/media/ba00c36c_5.png",
+              "/media/81c5016e_6.png",
+              "/media/eed99c52_7.png"
+            ]
+          }
+        }
+      ],
+      "images": [
+        "/media/475a6b4f_9.png",
+        "/media/76b5b6c9_1.gif",
+        "/media/805eb18e_2.gif",
+        "/media/81c5016e_6.png",
+        "/media/a6012322_4.png",
+        "/media/ba00c36c_5.png",
+        "/media/eed99c52_7.png",
+        "/media/f0418eab_8.png"
+      ]
+    },
+    {
+      "route": "/ted-performance",
+      "file": "ted-performance.html",
+      "title": "TED Performance \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.video",
+          "embed": "https://www.youtube.com/embed/lZbtntowLo0?wmode=opaque&enablejsapi=1"
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.code",
+          "embed": "https://cdn2.trb.tv/iframe.html?ec=pxdmJyczrTFmhbaTbFrb_D4-8EPh5aIE&pbid=717e07edd27f4e34b5289ab4b1556c56&pcode=dzb3E6lOVg3GbeqCXcWqm8NkQGcl"
+        },
+        {
+          "type": "2",
+          "definition": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "route": "/threewaymirror",
+      "file": "threewaymirror.html",
+      "title": "threeWayMirror \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/fddfd639_1.jpg"
+          ]
+        },
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.video",
+          "embed": "https://www.youtube.com/embed/RJxFCcHEYJw?wmode=opaque&enablejsapi=1"
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/44789079_image-asset.jpeg"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/fb77a07a_2.jpg"
+          ]
+        },
+        {
+          "type": "5",
+          "definition": null,
+          "images": [
+            "/media/3f27d363_image-asset.jpeg"
+          ]
+        }
+      ],
+      "images": [
+        "/media/3f27d363_image-asset.jpeg",
+        "/media/44789079_image-asset.jpeg",
+        "/media/fb77a07a_2.jpg",
+        "/media/fddfd639_1.jpg"
+      ]
+    },
+    {
+      "route": "/timeprojector",
+      "file": "timeprojector.html",
+      "title": "Time Projector \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.video",
+          "embed": "https://www.youtube.com/embed/BLEPegyeSoo?wmode=opaque&enablejsapi=1"
+        },
+        {
+          "type": "8",
+          "definition": null,
+          "gallery": {
+            "design": "stacked",
+            "columns": 1,
+            "ratio": "square",
+            "gap": 10,
+            "lightbox": true,
+            "images": [
+              "/media/05fef11e_DSC01486.jpg",
+              "/media/4452ed42_DSC01497.jpg",
+              "/media/124c12c9_DSC01380.jpg"
+            ]
+          }
+        },
+        {
+          "type": "8",
+          "definition": null,
+          "gallery": {
+            "design": "grid",
+            "columns": 2,
+            "ratio": "four-three",
+            "gap": 10,
+            "lightbox": true,
+            "images": [
+              "/media/962c456e_DSC01195.jpg",
+              "/media/51b0f234_DSC01183.jpg",
+              "/media/f0f70a16_DSC00995.jpg",
+              "/media/8c7d7741_DSC01106.jpg",
+              "/media/f805882e_DSC00834.jpg",
+              "/media/07c37a98_DSC00987.jpg"
+            ]
+          }
+        },
+        {
+          "type": "2",
+          "definition": null
+        }
+      ],
+      "images": [
+        "/media/05fef11e_DSC01486.jpg",
+        "/media/07c37a98_DSC00987.jpg",
+        "/media/124c12c9_DSC01380.jpg",
+        "/media/4452ed42_DSC01497.jpg",
+        "/media/51b0f234_DSC01183.jpg",
+        "/media/8c7d7741_DSC01106.jpg",
+        "/media/962c456e_DSC01195.jpg",
+        "/media/f0f70a16_DSC00995.jpg",
+        "/media/f805882e_DSC00834.jpg"
+      ]
+    },
+    {
+      "route": "/vibrations",
+      "file": "vibrations.html",
+      "title": "Vibrations \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "56",
+          "definition": null,
+          "embed": "https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F1588069&show_artwork=true&callback=YUI.Env.JSONP.yui_3_17_2_1_1495704296639_324258&wmode=opaque"
+        },
+        {
+          "type": "2",
+          "definition": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "route": "/whimsic",
+      "file": "whimsic.html",
+      "title": "Whimsic \u2014 //Joey Verbeke",
+      "blocks": [
+        {
+          "type": "2",
+          "definition": null
+        },
+        {
+          "type": "1337",
+          "definition": "website.components.video",
+          "embed": "https://player.vimeo.com/video/395036287?app_id=122963"
+        },
+        {
+          "type": "8",
+          "definition": null,
+          "gallery": {
+            "design": "grid",
+            "columns": 2,
+            "ratio": "four-three",
+            "gap": 20,
+            "lightbox": false,
+            "images": [
+              "/media/4a85383f_whimsic001.gif",
+              "/media/a265d478_whimsic002.gif",
+              "/media/3c31415e_junglejim_001.gif",
+              "/media/55ec4421_ST-003.gif"
+            ]
+          }
+        },
+        {
+          "type": "2",
+          "definition": null
+        }
+      ],
+      "images": [
+        "/media/3c31415e_junglejim_001.gif",
+        "/media/4a85383f_whimsic001.gif",
+        "/media/55ec4421_ST-003.gif",
+        "/media/a265d478_whimsic002.gif"
+      ]
+    }
+  ]
+}

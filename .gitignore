@@ -1,2 +1,6 @@
 .DS_Store
 .vercel
+__pycache__/
+*.py[cod]
+.migration-reference/
+.migration-current/

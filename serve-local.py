@@ -2,6 +2,7 @@
 """Preview this static site locally with Vercel-like clean URLs and redirects."""
 
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
+import argparse
 import json
 from pathlib import Path
 from urllib.parse import urlsplit
@@ -44,10 +45,22 @@ class Handler(SimpleHTTPRequestHandler):
             self.send_header("Location", destination)
             self.end_headers()
             return
+        if not Path(self.translate_path(self.path)).exists():
+            error_page = ROOT / "404.html"
+            body = error_page.read_bytes()
+            self.send_response(404)
+            self.send_header("Content-Type", "text/html; charset=utf-8")
+            self.send_header("Content-Length", str(len(body)))
+            self.end_headers()
+            self.wfile.write(body)
+            return
         super().do_GET()
 
 
 if __name__ == "__main__":
-    server = ThreadingHTTPServer(("127.0.0.1", 8766), Handler)
-    print("Clean Vercel preview: http://127.0.0.1:8766/", flush=True)
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--port", type=int, default=8766)
+    args = parser.parse_args()
+    server = ThreadingHTTPServer(("127.0.0.1", args.port), Handler)
+    print(f"Clean Vercel preview: http://127.0.0.1:{args.port}/", flush=True)
     server.serve_forever()

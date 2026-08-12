@@ -1,34 +1,40 @@
-# Joey Verbeke website — Vercel deployment
+# Joey Verbeke — self-hosted portfolio
 
-This directory is the cleaned static deployment copy of the archived website. It
-contains the homepage and 27 distinct portfolio pages, with their locally archived,
-original-resolution media files.
+This is a framework-free static portfolio: 28 HTML pages, one local stylesheet,
+one local JavaScript file, and locally hosted images and fonts. It has no build
+step and no dependency on a website platform, package manager, or CMS.
 
-## Deploy with a Git repository
+The only intentional runtime exceptions are the embedded Vimeo, YouTube,
+SoundCloud, and Tribune-hosted media players. If those providers are blocked,
+the rest of each page remains fully functional.
 
-1. Make this directory the root of a Git repository and push it to your personal
-   GitHub account. Alternatively, if the parent repository is used, select
-   `website-for-vercel` as the Vercel project's Root Directory.
-2. Import the repository in Vercel.
-3. Select **Other** as the framework preset.
-4. Leave the build command empty. There is no framework build step.
-5. Deploy the preview and test it before connecting `joeyverbeke.com`.
+## Preview locally
 
-`vercel.json` removes `.html` from public URLs, maps old hashed project URLs to their
-actual standalone project pages, redirects retired template/collection URLs, and enables
-long-lived caching for hash-named media.
+Run:
 
-The cleanup removed duplicate Squarespace collection captures, the duplicate `/home-1`
-page, empty legacy collection shells, and the template blog pages. Media referenced only
-by those removed pages was also removed. The full untouched archive remains in the
-parent directory.
+```sh
+python3 serve-local.py
+```
 
-## Size note
+Then open the URL printed in the terminal. The server supports the same clean,
+extensionless routes configured for Vercel.
 
-The directory is approximately 243 MB. A Vercel Hobby CLI upload has a documented
-100 MB source limit, so use the Git-connected deployment workflow first. The full raw
-crawl and its duplicate recovery media remain in the parent archive and are not part of
-this deployment directory.
+If port 8766 is already in use, choose another local port with
+`python3 serve-local.py --port 8092`.
 
-Do not cancel Squarespace or change DNS until the Vercel preview has been checked and
-the manual recovery tasks in the parent archive are complete.
+## Later deployment
+
+When this local version has been approved, import the repository into Vercel
+with the **Other** framework preset and no build command. `vercel.json` keeps
+clean URLs, legacy redirects, and long-lived caching for hash-named media.
+
+The site should be previewed on Vercel before connecting the domain. Keep the
+old hosting account active until the production domain and SSL pass a fresh
+network and visual audit.
+
+## Maintenance
+
+`content-manifest.json` inventories the generated pages and assets.
+`scripts/migrate_static.py` can regenerate the semantic pages from the locally
+preserved baseline commit. The Work Sans font is bundled under the SIL Open
+Font License in `assets/fonts/OFL.txt`.
