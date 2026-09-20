@@ -1,4 +1,14 @@
 (() => {
+  // Vercel Web Analytics uses this queue until its script is ready.
+  window.va = window.va || function () {
+    (window.vaq = window.vaq || []).push(arguments);
+  };
+
+  const analyticsScript = document.createElement('script');
+  analyticsScript.defer = true;
+  analyticsScript.src = '/_vercel/insights/script.js';
+  document.head.appendChild(analyticsScript);
+
   const toggle = document.querySelector('.menu-toggle');
   const nav = document.querySelector('.site-nav');
 
